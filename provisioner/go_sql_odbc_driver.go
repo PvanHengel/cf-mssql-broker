@@ -14,5 +14,6 @@
 package provisioner
 
 import (
-	_ "code.google.com/p/odbc"
+	//_ "code.google.com/p/odbc"
+	_ "github.com/alexbrainman/odbc
 )
